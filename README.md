@@ -24,4 +24,4 @@ All exploit works after 18.06.2021 update! :)
 
 You have to clone git and compile the dll
 
-I DONT HELP WITH COMPILE!!! DONT SEND PM TO ME ...
+I DONT HELP WITH COMPILE!!! DONT SEND PM TO ME ...tmm mk
